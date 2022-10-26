@@ -3,4 +3,4 @@ These projects were part of the course Advanced Signal Processing Techniques (El
 
 * Project 1: Bispectrum estimation using the indirect and the direct method
 * Project 2: Validity check of Giannakis' formula
-* Project 3: Cepstrum via Homomorphic Filtering (Recording are not included)
+* Project 3: Cepstrum via Homomorphic Filtering (Recordings are not included)
